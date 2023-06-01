@@ -1,4 +1,8 @@
 <div align="center">
+</p>
+         <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header"/>
+
+<div align="center">
 
 <b> Hello! I'm Joon Lee</b>
 
@@ -52,3 +56,4 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joonlee6075&show_icons=true&locale=en&layout=compact" alt="joonlee6075" /></p>
+         <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer"/>
