@@ -28,6 +28,7 @@
 
 <br>
 
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)&nbsp;
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
