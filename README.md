@@ -7,32 +7,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/won-joon-lee-593a45219/)](https://www.linkedin.com/in/won-joon-lee-593a45219/) [![Gmail](https://img.shields.io/badge/Email-black?color=black&logo=gmail&logoColor=white)](mailto:joonlee6075@gmail.com)
          
-<img src="images/carrot-walking.gif" 
-         alt="profile"
-         height="50"
-         width="50" />
-<img src="images/ghost.GIF" 
-         alt="profile"
-         height="35"
-         width="35" />
-<img src="images/farmer-chasing.GIF" 
-         alt="profile"
-         height="50"
-         width="50" />
+
 
 <!--
-**zhixuanevelynwu/zhixuanevelynwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 - I'm a Computer Science & Game Design Major Student in New York University
 - I usually participate in System design, Physics, Mathematics, Procedural Generation and more
@@ -67,3 +45,9 @@ Here are some ideas to get you started:
   
 
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joonlee6075&show_icons=true&locale=en&layout=compact" alt="joonlee6075" /></p>
