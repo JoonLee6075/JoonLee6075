@@ -46,6 +46,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)&nbsp;
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-000000?style=flat&logo=unrealengine)&nbsp;
 ![GameMaker](https://img.shields.io/badge/-GameMaker-000000?style=flat&logo=gamemaker)&nbsp;
+![DirectX11](https://img.shields.io/badge/-DirectX11-0000FF?style=flat&logo=DirectX11)&nbsp;
 
   
 
